@@ -16,8 +16,6 @@ Copy this template repository by clicking on "Use this Template"
 
 Then, create the new repository using the following naming convention: `course-name-lesson-name`. For example: `intermediate-react-react-router`:
 
-![](_img/template-repo-naming.png)
-
 ## Working on a Content Item
 
 Create a branch with the current content item you are working on:
