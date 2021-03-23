@@ -16,20 +16,3 @@ Please refer to the [workflow](workflow.md) document for information about setup
   * [Author Checklist: Lessons](author-checklist.md)
   * [Writing Tests](test.md)
 * [Terms](terms.md)
-
-## Content
-### Welcome to Learn X
-
-### Module 1 Title
-* Lesson: Lesson Title
-  * [Outline]()
-  * [Narratives and Checkpoints]()
-* Article: [Article Title]()
-* External Resource: [Resource Title]()
-* Project: [Project Title]()
-  * [Solution Code]()
-  * [Starting Code]()
-* Quiz: [Quiz Title]()
-
-### Next Steps
-* Article: Next Steps
