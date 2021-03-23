@@ -1,11 +1,11 @@
 # Workflow
 
 ## Setup
-Clone this repo
+Fork this repo
 
-Create a branch with your name:
+Create a branch with the current content item you are working on:
 ```
-git checkout -b authorName
+git checkout -b contentItem
 ```
 You can check which branch you are working on with the following command:
 ```
@@ -29,13 +29,13 @@ git checkout branch_name
 ```
 git add .
 git commit -m "your commit message here"
-git push --set-upstream origin jiwon
+git push --set-upstream origin master
 ```
 
 3. See that in the main repo page, there is a notification to create a pull request. Click "Compare & pull request"
 ![Image of compare & pull request banner](_img/compare_pr.png)
 
-4. Add any notes you have in the pull request comment. Assign Jiwon as a Reviewer. Assign yourself as an Assignee. 
+4. Add any notes you have in the pull request comment. Assign your lead Curriculum Developer as a Reviewer. Assign yourself as an Assignee. 
 ![Image of PR page](_img/pr_comments.png)
 
 5. You can add comments to specific lines by going to the Files changed tab in the pull request.
