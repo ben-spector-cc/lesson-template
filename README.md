@@ -18,7 +18,7 @@ Then, create the new repository using the following naming convention: `course-n
 
 ## Working on a Content Item
 
-Create a branch with the current content item you are working on:
+Create a branch with the current content item you are working on. For example: `git checkout -b outline-draft`
 ```
 git checkout -b contentItem
 ```
