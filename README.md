@@ -1,6 +1,3 @@
-# Course: Learn X
-
-Full syllabus is available [here](replace-me).
 Please refer to the [workflow](workflow.md) document for information about setup and process of adding content / making changes.
 
 ## Templates
