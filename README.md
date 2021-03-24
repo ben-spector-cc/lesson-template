@@ -1,7 +1,7 @@
 ## Guidelines & Resources
 * Content Types
-  * [Lesson Outline](lessons/outline-guidelines.md)
-  * [Narratives and Checkpoints](lessons/narratives-and-checkpoints-guidelines.md)
+  * [Lesson Outline](lesson/outline-guidelines.md)
+  * [Narratives and Checkpoints](lesson/narratives-and-checkpoints-guidelines.md)
   * [Quiz](quiz.md)
 * Author
   * [Author Walkthrough](author-walkthrough.md)
