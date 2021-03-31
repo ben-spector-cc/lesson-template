@@ -14,7 +14,7 @@ Copy this template repository by clicking on "Use this template"
 
 ![](_img/use-this-template.png)
 
-Then, create the new repository using the following naming convention: `course-name-lesson-name`. For example: `javascript-loops`:
+Then, create the new repository using the following naming convention: `course-name-module-name`. For example: `learn-javascript-loops`:
 
 ## Working on a Content Item
 
