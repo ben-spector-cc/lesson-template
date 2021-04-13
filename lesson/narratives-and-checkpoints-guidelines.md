@@ -1,6 +1,6 @@
 # Narratives and Checkpoints Guidelines
 
-_Read the content standards for expectations for [narratives](http://curriculum-documentation.codecademy.com/Content-Standards/narrative/), [checkpoints](http://curriculum-documentation.codecademy.com/Content-Standards/checkpoint/), and [hints](http://curriculum-documentation.codecademy.com/Content-Standards/hint/)._ 
+_Read the content standards for expectations for [narratives](https://curriculum-documentation.codecademy.com/exercises/narrative-standards/), [checkpoints](https://curriculum-documentation.codecademy.com/exercises/checkpoint-standards/), and [hints](https://curriculum-documentation.codecademy.com/exercises/hint-standards/)._ 
 
 This draft of narratives and checkpoints is a place to write out narratives and checkpoints as they will appear in Codecademy's learning environment.
 
