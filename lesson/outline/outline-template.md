@@ -1,15 +1,14 @@
 # Lesson Name
 
-Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/outline/) for guidance on writing lesson outline.
-
 ## Lesson Information
 
 ### Resource(s)
 
 _Insert any resources you used while researching to help plan your lesson._
 
-### Learning Standards
-Check out the [content standards](http://curriculum-documentation.codecademy.com/Resources/outcomes-standards-objectives/#learning-standards) for guidance on writing learing standards.
+### Course Outcomes
+
+After completing this lesson, learners will be able to..
 
 1. ...
 2. ...
@@ -25,53 +24,27 @@ Check out the [content standards](http://curriculum-documentation.codecademy.com
 
 ### Narrative Summary
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/narrative/) for guidance on writing narratives for exercises._
-
-
+_Narrative Text Here_
 
 ### Checkpoints Summary
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/checkpoint/) for guidance on writing narratives for exercises._
-
 1. Checkpoint one
+
+_Checkpoint Text Here_
+
 2. Checkpoint two
+
+_Checkpoint Text Here_
+
+...
 
 #### What is the purpose of these checkpoints?
 
-
-
-### What would you like to have in the workspace for this exercise? Share your plan below.
-
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/workspaces/) for guidance on writing narratives for exercises._
-
-<hr>
-
-## Exercise # 2: _Insert exercise title here_
-
-### Which course outcomes will be covered by this exercise?
-
-1. Learners will be able to...
-
-### Narrative Summary
-
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/narrative/) for guidance on writing narratives for exercises._
-
-
-
-### Checkpoints Summary
-
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/checkpoint/) for guidance on writing narratives for exercises._
-
-1. Checkpoint one
-2. Checkpoint two
-
-#### What is the purpose of these checkpoints?
-
-
+_Checkpoint Objectives Here_
 
 ### What would you like to have in the workspace for this exercise? Share your plan below.
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/workspaces/) for guidance on writing narratives for exercises._
+_Workspace Description Here_
 
 <hr>
 
@@ -83,22 +56,58 @@ _Check out the [content standards](http://curriculum-documentation.codecademy.co
 
 ### Narrative Summary
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/narrative/) for guidance on writing narratives for exercises._
-
-
+_Narrative Text Here_
 
 ### Checkpoints Summary
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/checkpoint/) for guidance on writing narratives for exercises._
-
 1. Checkpoint one
+
+_Checkpoint Text Here_
+
 2. Checkpoint two
+
+_Checkpoint Text Here_
+
+...
 
 #### What is the purpose of these checkpoints?
 
-
+_Checkpoint Objectives Here_
 
 ### What would you like to have in the workspace for this exercise? Share your plan below.
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/workspaces/) for guidance on writing narratives for exercises._
+_Workspace Description Here_
 
+<hr>
+
+## Exercise # 3: _Insert exercise title here_
+
+### Which course outcomes will be covered by this exercise?
+
+1. Learners will be able to...
+
+### Narrative Summary
+
+_Narrative Text Here_
+
+### Checkpoints Summary
+
+1. Checkpoint one
+
+_Checkpoint Text Here_
+
+2. Checkpoint two
+
+_Checkpoint Text Here_
+
+...
+
+#### What is the purpose of these checkpoints?
+
+_Checkpoint Objectives Here_
+
+### What would you like to have in the workspace for this exercise? Share your plan below.
+
+_Workspace Description Here_
+
+<hr>
