@@ -1,11 +1,11 @@
 # Quiz
 
-Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/quiz/) for guidance on writing quiz assessments.
+Check out the [content standards](http://curriculum-documentation.codecademy.com/quizzes/quiz-standards/) for guidance on writing quiz assessments.
 
 <hr>
 
 ## Assessment 1 (Multiple Choice Template)
-Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/multiple-choice/) for guidance on multiple choice assessments.
+Check out the [content standards](http://curriculum-documentation.codecademy.com/assessments/multiple-choice-standards/) for guidance on multiple choice assessments.
 
 _Question prompt_
 
@@ -24,7 +24,7 @@ Reason: _Not quite. Reason why this response is incorrect._
 <hr>
 
 ## Assessment 2 (Fill in the Code Template)
-Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/fill-in-the-code/) for guidance on Fill In The Code (FITC) assessments.
+Check out the [content standards](http://curriculum-documentation.codecademy.com/assessments/fill-in-the-code-standards/) for guidance on Fill In The Code (FITC) assessments.
 
 _Fill in The Code question prompt_
 
