@@ -1,6 +1,6 @@
 # Lesson Outline Guidelines
 
-Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/outline/) for guidance on writing lesson outline.
+Check out the [content standards](https://curriculum-documentation.codecademy.com/lessons/outline-standards//) for guidance on writing lesson outline.
 
 Important points from the content standards:
 * A lesson outline is a skeleton that illustrates the progression of the lesson at a high level.
@@ -24,7 +24,7 @@ We keep track of resources internally to keep track of what we are using as the 
 
 ### Learning Standards
 
-Check out the [content standards](http://curriculum-documentation.codecademy.com/Resources/outcomes-standards-objectives/#learning-standards) for guidance on writing learing standards.
+Check out the [content standards](https://curriculum-documentation.codecademy.com/codecademy-basics/outcomes-standards-objectives/#learning-standards) for guidance on writing learning standards.
 
 Important points from the content standards:
 * Learning Standards focus on the goals for understanding, or the what of learning. 
@@ -59,13 +59,13 @@ Important points from content standards:
 
 ### Narrative Summary
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/narrative/) for guidance on writing narratives for exercises._
+_Check out the [content standards](https://curriculum-documentation.codecademy.com/exercises/narrative-standards/) for guidance on writing narratives for exercises._
 
 For the purpose of a lesson outline, provide bullet point list of the contents of the narrative. The bullet points should be in the order of appearence. It can also be ordered by priority / importance of the topics that should be covered in this narrative.
 
 ### Checkpoints Summary
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/checkpoint/) for guidance on writing narratives for exercises._
+_Check out the [content standards](https://curriculum-documentation.codecademy.com/exercises/checkpoint-standards/) for guidance on writing narratives for exercises._
 
 Provide a bullet point list of checkpoints (instructions) that learners will complete. Checkpoints allow learners to test what was covered in this exercise and usually involve editing or adding lines of code. Checkpoints can also direct learners to interact with a website / web app displayed in the workspace. In this case, the workspace usually displays a web page with the various elements that will be covered in the whole lesson. 
 
@@ -78,7 +78,7 @@ Briefly explain what the checkpoints will test learners of.
 
 ### What would you like to have in the workspace for this exercise? Share your plan below.
 
-_Check out the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/workspaces/) for guidance on writing narratives for exercises._
+_Check out the [content standards](https://curriculum-documentation.codecademy.com/exercises/exercise-workspace-standards/) for guidance on creating workspaces for exercises._
 
 There are various types of workspaces. Some workspace types that we will most likely be using are:
 * Web view: We can display an existing website (via url), or we can upload files for a web page and display the rendered view
