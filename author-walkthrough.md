@@ -23,7 +23,7 @@
     * [Learning Standards in Author](https://www.youtube.com/watch?v=CTnHLiWldjE&list=PLFzsFUO-y0HCGY725EmHMovYSSOd5biut&index=8)
   * For creating Review Cards:
     * [How to Create a Review Card in Author](https://www.youtube.com/watch?v=WZAIjiChyWw&list=PLFzsFUO-y0HCGY725EmHMovYSSOd5biut&index=6)
-* [Curriculum Documentation: Test](http://curriculum-documentation.codecademy.com/Content-Standards/test/)
+* [Curriculum Documentation: Test](http://curriculum-documentation.codecademy.com/testing/test-standards/)
   * [Regex Testing](http://curriculum-documentation.codecademy.com/Testing/generic-code/)
     * [RegExr](https://regexr.com/)
   * [WebSCT Testing](http://curriculum-documentation.codecademy.com/Testing/webSCT/)
