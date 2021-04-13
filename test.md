@@ -2,13 +2,13 @@
 
 Resources:
 
-* Curriculum Doc: [Overview](http://curriculum-documentation.codecademy.com/Testing/overview/) on testing
-* Curriculum Doc: [Test Standards](http://curriculum-documentation.codecademy.com/Content-Standards/test/)
-* Curriculum Doc: [Mocha Tests](http://curriculum-documentation.codecademy.com/Testing/mocha/)
+* Curriculum Doc: [Overview](http://curriculum-documentation.codecademy.com/testing/testing-overview/) on testing
+* Curriculum Doc: [Test Standards](http://curriculum-documentation.codecademy.com/testing/test-standards)
+* Curriculum Doc: [Mocha Tests](http://curriculum-documentation.codecademy.com/testing/mocha/)
 * [Mocha Documentation](https://mochajs.org/)
 * [Structured.js Documentation](https://github.com/codecademy-engineering/structuredjs)
-* Curriculum Doc: [WebSCT Tests](http://curriculum-documentation.codecademy.com/Testing/webSCT/)
-* Curriclum Doc: [Generic Code Testing](http://curriculum-documentation.codecademy.com/Testing/generic-code/)
+* Curriculum Doc: [WebSCT Tests](http://curriculum-documentation.codecademy.com/testing/webSCT/)
+* Curriclum Doc: [Generic Code Testing](http://curriculum-documentation.codecademy.com/testing/generic-code/)
 * [Regexr](https://regexr.com/)
 
 ## Mocha Tests
