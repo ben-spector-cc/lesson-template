@@ -1,6 +1,6 @@
 # _Project Name_
 
-_Read the [content standards](http://curriculum-documentation.codecademy.com/Content-Standards/project/) for expectations for outline and check out [this example](https://docs.google.com/document/d/1SfHo68LS_w38ur7FJCxyKhBX5aOk_odY1GBYD_Y2kmE/edit)._
+_Read the [content standards](http://curriculum-documentation.codecademy.com/projects/on-platform-project-standards/) for expectations for outline and check out [this example](https://docs.google.com/document/d/1SfHo68LS_w38ur7FJCxyKhBX5aOk_odY1GBYD_Y2kmE/edit)._
 
 ## Project Information
 
