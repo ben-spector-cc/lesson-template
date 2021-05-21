@@ -1,12 +1,8 @@
-## Guidelines & Resources
-* Content Types
-  * [Lesson Outline](lesson/outline-guidelines.md)
-  * [Narratives and Checkpoints](lesson/narratives-and-checkpoints-guidelines.md)
-  * [Quiz](quiz.md)
-* Author
-  * [Author Walkthrough](author-walkthrough.md)
-  * [Author Checklist: Lessons](author-checklist.md)
-  * [Writing Tests](test.md)
+## About this repo:
+
+This repository is set up for an individual contributor to store and manage their drafts for a typical 1-1-1 module (1 lesson, 1 project, 1 quiz). Templates are available for each deliverable in the drafting phase in their respective directory. For example, the template for the outline can be found in [`/lessons`](lessons/).
+
+Additionally, guides for the Author phase of the production cycle are included in the [`/author-guides`](author-guides/) directory.
 
 ## Workflow
 
@@ -16,17 +12,19 @@ Copy this template repository by clicking on "Use this template"
 
 Then, create the new repository using the following naming convention: `course-name-module-name`. For example: `learn-javascript-loops`:
 
-## Working on a Content Item
+## Working on a Deliverable
 
-Create a branch with the current content item you are working on. For example: `git checkout -b outline-draft`
+Create a branch with the current deliverable you are working on. For example: `git checkout -b outline-draft`
 ```
-git checkout -b contentItem
+git checkout -b deliverable
 ```
 You can check which branch you are working on with the following command:
 ```
 git branch
 ```
 *Note that the "master" branch of this repository is called `main`.*
+
+**When starting a new deliverable, make sure to mark it as "In Progress" in Jira.**
 
 ## Pushing Code
 
@@ -59,8 +57,7 @@ git push --set-upstream origin master
 ## Important Tools
 * Each content contributor's production schedule can be found in the Timeline spreadsheet. Also, refer to this spreadsheet for deadlines.
 * GitHub repo is where all content lives. Drafts are submitted here as pull requests by content contributors and merged into main branch by CDev. 
-  * All feedback lives in GitHub as comments (either in PR, or as in-line comments).
-* Progress for each task is tracked as a Jira ticket.
+  * Raw markdown will be copied into a Google doc for the review/feedback cycle. Resolve all comments/suggestions in the Google Doc before copying the updated draft into Github and moving on to the next deliverable.
   * Jira tickets include any progress-specific comments related to a task.
 
 ## General Process

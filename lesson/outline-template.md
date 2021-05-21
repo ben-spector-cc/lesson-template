@@ -22,28 +22,7 @@ _Insert any resources you used while researching to help plan your lesson._
 
 We keep track of resources internally to keep track of what we are using as the source of truth. These resources may not appear anywhere in the lesson, but may sometimes be listed as good resources for learners to look at for further learning (in review, or inline links for definitions of functions, variables, terms...).
 
-### Learning Standards
-
-Check out the [content standards](https://curriculum-documentation.codecademy.com/codecademy-basics/outcomes-standards-objectives/#learning-standards) for guidance on writing learning standards.
-
-Important points from the content standards:
-* Learning Standards focus on the goals for understanding, or the what of learning. 
-* They are un-opinionated about the how of learning.
-* Learning Standards include objective statements about desired understanding, knowledge, and/or skills.
-
-Learning standards can be written before completing lesson outline for individual exercises. It can also be derived from exercise outlines after they have been written out. Learning standards state facts that are covered in this lesson. They are also used for quiz assessments. Each quiz assessment is related to a particular learning standard (in Author, you will have to directly link a quiz assessment to a learning standard).
-
-Examples of Learning Standards:
-* Browsers parse HTML tags inside the <body> and render them to a webpage as DOM Elements.
-* The CSS display: flex property/value pairing sets an HTML element as a flex container. Any child elements within this flex container are known as flex items and will change size and location in response to the size and position of this parent container.  The flex container will be a block level element.
-* Inside an **.html** file, include A-Frame in the `<head>` element:
-```html
-<script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
-```
-
-1. ...
-2. ...
-3. ...
+# Lesson Title: _Insert lesson title here_
 
 ## Exercise # 1: _Insert exercise title here_
 
@@ -61,7 +40,12 @@ Important points from content standards:
 
 _Check out the [content standards](https://curriculum-documentation.codecademy.com/exercises/narrative-standards/) for guidance on writing narratives for exercises._
 
-For the purpose of a lesson outline, provide bullet point list of the contents of the narrative. The bullet points should be in the order of appearence. It can also be ordered by priority / importance of the topics that should be covered in this narrative.
+For the purpose of a lesson outline, provide bullet point list of the contents of the narrative. The bullet points should be in the order of appearance. It can also be ordered by priority / importance of the topics that should be covered in this narrative. Below are some high-level parts of narratives that should be included in most exercises.
+
+* Introduction / Context / Hook to new topic
+* Technical Definition of new topic
+* Example of new topic
+* Explanation of example of new topic
 
 ### Checkpoints Summary
 
@@ -71,10 +55,6 @@ Provide a bullet point list of checkpoints (instructions) that learners will com
 
 1. Checkpoint one
 2. Checkpoint two
-
-#### What is the purpose of these checkpoints?
-
-Briefly explain what the checkpoints will test learners of.
 
 ### What would you like to have in the workspace for this exercise? Share your plan below.
 
@@ -86,3 +66,103 @@ There are various types of workspaces. Some workspace types that we will most li
 * Image view: We can display images (usually diagrams, illustrations, GIFs) that may aid explanation of concepts and structures. We can request an artwork to be created.
 
 If you have an idea of other types of content that you think would work great for a particular exercise, let me know!
+
+<hr>
+
+## Exercise # 2: _Insert exercise title here_
+
+### Which course outcomes will be covered by this exercise?
+
+1. Learners will be able to...
+2. LWBAT ...
+
+### Narrative Summary
+
+* Introduction / Context / Hook to new topic
+* Technical Definition of new topic
+* Example of new topic
+* Explanation of example of new topic
+
+### Checkpoints Summary
+
+1. Checkpoint one
+2. Checkpoint two
+
+### What would you like to have in the workspace for this exercise? Share your plan below.
+
+Code Editor / Web Browser / Terminal / Output Terminal (console only) / Image / Video
+
+<hr>
+
+## Exercise # 3: _Insert exercise title here_
+
+### Which course outcomes will be covered by this exercise?
+
+1. Learners will be able to...
+2. LWBAT ...
+
+### Narrative Summary
+
+* Introduction / Context / Hook to new topic
+* Technical Definition of new topic
+* Example of new topic
+* Explanation of example of new topic
+
+### Checkpoints Summary
+
+1. Checkpoint one
+2. Checkpoint two
+
+### What would you like to have in the workspace for this exercise? Share your plan below.
+
+Code Editor / Web Browser / Terminal / Output Terminal (console only) / Image / Video
+
+<hr>
+
+## Exercise # 4: _Insert exercise title here_
+
+### Which course outcomes will be covered by this exercise?
+
+1. Learners will be able to...
+2. LWBAT ...
+
+### Narrative Summary
+
+* Introduction / Context / Hook to new topic
+* Technical Definition of new topic
+* Example of new topic
+* Explanation of example of new topic
+
+### Checkpoints Summary
+
+1. Checkpoint one
+2. Checkpoint two
+
+### What would you like to have in the workspace for this exercise? Share your plan below.
+
+Code Editor / Web Browser / Terminal / Output Terminal (console only) / Image / Video
+
+<hr>
+
+## Exercise # 5: _Insert exercise title here_
+
+### Which course outcomes will be covered by this exercise?
+
+1. Learners will be able to...
+2. LWBAT ...
+
+### Narrative Summary
+
+* Introduction / Context / Hook to new topic
+* Technical Definition of new topic
+* Example of new topic
+* Explanation of example of new topic
+
+### Checkpoints Summary
+
+1. Checkpoint one
+2. Checkpoint two
+
+### What would you like to have in the workspace for this exercise? Share your plan below.
+
+Code Editor / Web Browser / Terminal / Output Terminal (console only) / Image / Video
