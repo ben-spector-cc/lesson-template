@@ -1,6 +1,6 @@
 ## About this repo:
 
-This repository is set up for an individual contributor to store and manage their drafts for a typical 1-1-1 module (1 lesson, 1 project, 1 quiz). Templates are available for each deliverable in the drafting phase in their respective directory. For example, the template for the outline can be found in [`/lessons`](lessons/).
+This repository is set up for an individual contributor to store and manage their drafts for a typical 1-1-1 module (1 lesson, 1 project, 1 quiz). Templates are available for each deliverable in the drafting phase in their respective directory. For example, the template for the outline can be found in the [`/lesson`](lesson/) directory.
 
 Additionally, guides for the Author phase of the production cycle are included in the [`/author-guides`](author-guides/) directory.
 
