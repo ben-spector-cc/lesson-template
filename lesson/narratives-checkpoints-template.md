@@ -11,6 +11,8 @@ Some example narratives and checkpoints drafts:
 
 You will see that the Hooks lesson's narrative and checkpoints draft includes code for _initial savepoint_ and _final savepoint_. You don't need to include these in the draft, but if you want some feedback on the workspace code example, or if you think it will help explain the checkpoints, you can include a link to / copy of the workspace code here.
 
+# Lesson Title: _Insert lesson title here._
+
 ## Exercise 1: _Insert exercise title here._
 
 ### Narrative:
@@ -26,24 +28,76 @@ Important points from the content standards:
 * Narratives may include links to external resources when necessary
   * New functions & variables can link to reference page
 
-### Instructions:
+### Checkpoints/Instructions:
+
+* Checkpoints provide instructions to learners and evaluate learner code with tests.
+  * Each checkpoint requires tests to evaluate whether the learner has entered in the correct code per instructions. The code for those tests are not necessary here.
+  * When applicable, specify the file that the learner should be editing. (e.g: In `fileToEdit.js`, ....)
+  * "Instructions" are alternative to checkpoints -- they does not require learners to write any code / write correct code to progress through the lesson. This is most commonly used for the first exercise and the review exercise. For example, you may direct the learner to look up documentation, study a diagram, or look at the contents of the web browser.
+* A hint is a suggestion/tip for how to complete a checkpoint
+  * A hint should not directly reveal the answer.
+  * Not all checkpoints require hints, **but** ideally all checkpoints should have hints.
 
 1. Checkpoint: _Insert checkpoint text here._
 
-Important points from the content standards:
-
-* Checkpoints provide instructions to learners and evaluate learner code with tests.
-  * Each checkpoint requires tests to evaluate whether the learner has entered in the correct code per instructions.
-  * A "Default Pass" checkpoint is also available -- this does not require learners to write any code / write correct code to progress through the lesson. This is most commonly used for the first exercise and the review exercise.
-
 Hint: _Insert optional but recommended hint text here._
-
-Important points from the content standards:
-
-* A hint is a suggestion/tip for how to complete a checkpoint
-  * A hint should not directly reveal the answer.
-* Not all checkpoints require hints, **but** ideally all checkpoints should have hints.
 
 2. Checkpoint: _Insert checkpoint text here._
 
 Hint: _Insert optional but recommended hint text here._
+
+<hr>
+
+## Exercise 2: _Insert exercise title here._
+
+### Narrative:
+
+_Insert narrative text here..._
+
+### Checkpoints/Instructions:
+
+1. Checkpoint: _Insert checkpoint text here._
+
+Hint: _Insert optional but recommended hint text here._
+
+2. Checkpoint: _Insert checkpoint text here._
+
+Hint: _Insert optional but recommended hint text here._
+
+<hr>
+
+## Exercise 3: _Insert exercise title here._
+
+### Narrative:
+
+_Insert narrative text here..._
+
+### Checkpoints/Instructions:
+
+1. Checkpoint: _Insert checkpoint text here._
+
+Hint: _Insert optional but recommended hint text here._
+
+2. Checkpoint: _Insert checkpoint text here._
+
+Hint: _Insert optional but recommended hint text here._
+
+<hr>
+
+## Exercise 4: _Insert exercise title here._
+
+### Narrative:
+
+_Insert narrative text here..._
+
+### Checkpoints/Instructions:
+
+1. Checkpoint: _Insert checkpoint text here._
+
+Hint: _Insert optional but recommended hint text here._
+
+2. Checkpoint: _Insert checkpoint text here._
+
+Hint: _Insert optional but recommended hint text here._
+
+<hr>
