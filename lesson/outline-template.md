@@ -51,10 +51,12 @@ For the purpose of a lesson outline, provide bullet point list of the contents o
 
 _Check out the [content standards](https://curriculum-documentation.codecademy.com/exercises/checkpoint-standards/) for guidance on writing narratives for exercises._
 
-Provide a bullet point list of checkpoints (instructions) that learners will complete. Checkpoints allow learners to test what was covered in this exercise and usually involve editing or adding lines of code. Checkpoints can also direct learners to interact with a website / web app displayed in the workspace. In this case, the workspace usually displays a web page with the various elements that will be covered in the whole lesson. 
+Provide a bullet point list of checkpoints that learners will complete. Checkpoints allow learners to test what was covered in this exercise and usually involve editing or adding lines of code. When appropriate, specify what code will be provided to the learner to begin with.
 
-1. Checkpoint one
-2. Checkpoint two
+Alternatively, instructions can be used instead of checkpoints to direct learners to interact with a website / web app displayed in the workspace. Instructions have no automated tests associated with them.
+
+1. The learner will do X, Y, and Z
+2. ...
 
 ### What would you like to have in the workspace for this exercise? Share your plan below.
 
