@@ -17,22 +17,6 @@ Examples of Learning Standards:
 <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
 ```
 
-## Template: Learning Standard X
-
-### Learning Standard Text
-
-...
-
-### Tags
-
-...
-
-### Additional Notes / Resources Used
-
-...
-
-<hr>
-
 ## Example: Installing Redux
 
 ### Learning Standard Text
@@ -66,3 +50,53 @@ This learning standard:
 
 Sources:
 * https://redux.js.org/api/api-reference
+
+<hr>
+
+## Learning Standard X
+
+### Learning Standard Text
+
+...
+
+### Tags
+
+...
+
+### Additional Notes / Resources Used
+
+...
+
+<hr>
+
+## Learning Standard Y
+
+### Learning Standard Text
+
+...
+
+### Tags
+
+...
+
+### Additional Notes / Resources Used
+
+...
+
+<hr>
+
+## Learning Standard Z
+
+### Learning Standard Text
+
+...
+
+### Tags
+
+...
+
+### Additional Notes / Resources Used
+
+...
+
+<hr>
